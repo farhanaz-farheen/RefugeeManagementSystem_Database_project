@@ -1,0 +1,65 @@
+#background-three{
+    -fx-background-image: url("/images/b.jpg");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#background-four{
+    -fx-background-image: url("/images/c.png");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#background-five{
+    -fx-background-image: url("/images/d.jpg");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#background-six{
+    -fx-background-image: url("/images/h.jpg");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#background-seven{
+    -fx-background-image: url("/images/i.jpg");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#background-eight{
+    -fx-background-image: url("/images/k.jpg");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+#authback{
+    -fx-background-image: url("/images/alogo.png");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#authback:hover{
+    -fx-background-image: url("/images/alogo1.png");
+}
+
+#dnoback{
+    -fx-background-image: url("/images/dno.png");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#dnoback:hover{
+    -fx-background-image: url("/images/dno1.png");
+}
+#guestback{
+    -fx-background-image: url("/images/guest.png");
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#guestback:hover{
+  -fx-background-image: url("/images/guest1.png");
+}

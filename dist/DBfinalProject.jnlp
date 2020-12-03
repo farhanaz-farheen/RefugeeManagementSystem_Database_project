@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DBfinalProject.jnlp">
+  <information>
+    <title>DBfinalProject</title>
+    <vendor>WINDOWS</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DBfinalProject.jar" size="8529415" download="eager" />
+    <jar href="lib\ojdbc7.jar" size="3698892" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="DBfinalProject" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafxapplication19.Main"  name="DBfinalProject" />
+  <update check="always"/>
+</jnlp>

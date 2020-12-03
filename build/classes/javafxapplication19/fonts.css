@@ -1,0 +1,30 @@
+#textone{
+    -fx-text-fill: black;
+    -fx-font-weight: 500;
+    -fx-font-family: "Calibri";
+    -fx-font-size: 30px;
+}
+#texttwo{
+    -fx-text-fill: white;
+    -fx-font-weight: 500;
+    -fx-font-family: "Adobe Ming Std L";
+    -fx-font-size: 30px;
+}
+#textthree{
+    -fx-text-fill: black;
+    -fx-font-weight: 500;
+    -fx-font-family: "Adobe Ming Std L";
+    -fx-font-size: 30px;
+}
+#textfour{
+    -fx-text-fill: firebrick;
+    -fx-font-weight: 500;
+    -fx-font-family: "Adobe Ming Std L";
+    -fx-font-size: 30px;
+}
+#textfive{
+    -fx-text-fill: whitesmoke;
+    -fx-font-weight: 500;
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 30px;
+}
